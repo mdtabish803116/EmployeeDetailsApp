@@ -1,0 +1,103 @@
+{
+  "employeeDetails": [
+    {
+      "name": "Raj",
+      "age": "24",
+      "address": "Patna",
+      "department": "Doctor",
+      "salary": "56000",
+      "maritalStatus": false,
+      "id": 1
+    },
+    {
+      "name": "Sohan",
+      "age": "29",
+      "address": "Patna",
+      "department": "Engineer",
+      "salary": "40000",
+      "maritalStatus": true,
+      "id": 2
+    },
+    {
+      "name": "Asgar",
+      "age": "25",
+      "address": "Uttar Pardesh",
+      "department": "Others",
+      "salary": "16000",
+      "maritalStatus": true,
+      "id": 3
+    },
+    {
+      "name": "Abhay",
+      "age": "20",
+      "address": "Asam",
+      "department": "Teacher",
+      "salary": "26000",
+      "maritalStatus": false,
+      "id": 4
+    },
+    {
+      "name": "Md Tabish",
+      "age": "22",
+      "address": "nalanda",
+      "department": "Engineer",
+      "salary": "5055665",
+      "maritalStatus": true,
+      "id": 5
+    },
+    {
+      "name": "Md Tabish",
+      "age": "22",
+      "address": "nalanda",
+      "department": "Teacher",
+      "salary": "5055665",
+      "maritalStatus": true,
+      "id": 6
+    },
+    {
+      "name": "sukho",
+      "age": "22",
+      "address": "nalanda",
+      "department": "",
+      "salary": "5055665",
+      "maritalStatus": true,
+      "id": 7
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "Doctor",
+      "salary": "5055665",
+      "maritalStatus": true,
+      "id": 8
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "Doctor",
+      "salary": "5055665",
+      "maritalStatus": true,
+      "id": 9
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "Teacher",
+      "salary": "",
+      "maritalStatus": false,
+      "id": 10
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "Teacher",
+      "salary": "",
+      "maritalStatus": true,
+      "id": 11
+    }
+  ]
+}

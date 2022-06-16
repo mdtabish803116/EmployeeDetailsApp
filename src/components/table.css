@@ -1,0 +1,13 @@
+
+table thead th , table tbody td {
+     border : 1px solid teal;
+     width : 10%;
+     text-align : left;
+     height : 30px;
+}
+
+table{
+      border-collapse: collapse;
+      
+    
+}
